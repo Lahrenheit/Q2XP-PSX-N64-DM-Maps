@@ -13,6 +13,7 @@ Discord: Lahrenheit#8564
 Download the "release" .pkx file and paste to quake2/baseq2 folder
 
 You can create or edit the file "maps.lst" in baseq2 folder and write:
+```
 q2ps1 "Cold Storage"
 q2ps2 "Warehouse"
 q2ps3 "Aquaplex"
@@ -26,6 +27,7 @@ toxic "Toxic Vats HD"
 q2ps10 "The Forge"
 forge "The Forge HD"
 q2ps11 "Captivity"
+```
 
 
 ## Screenshots / Levelshots
