@@ -10,7 +10,7 @@ Discord: Lahrenheit#8564
 Download the "release" .pkx file and paste to quake2/baseq2 folder
 
 
-## Screenshots
+## Screenshots / Levelshots
 
 <details><summary>q2ps1 "Cold Storage"</summary>
 <p>
