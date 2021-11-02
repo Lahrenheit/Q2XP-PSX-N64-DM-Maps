@@ -1,5 +1,5 @@
 # Q2XP PSX DM MAPS - W.I.P
-Created by EmeraldProductions
+Created by EmeraldProductions (.bsp files)
 
 Relight (.xplm .xplit) and levelshots made by Lahrenheit
 
