@@ -14,6 +14,7 @@ Download the "release" .pkx file and paste to quake2/baseq2 folder
 
 <details><summary>q2ps1 "Cold Storage"</summary>
 <p>
+  
 ![Screenshot 1](https://github.com/Lahrenheit/Q2XP-PSX-DM-Maps/blob/main/levelshots/q2ps1.jpg)
 </p>
 </details>
