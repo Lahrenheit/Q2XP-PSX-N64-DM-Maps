@@ -22,7 +22,7 @@ Download the "release" .pkx file and paste to quake2/baseq2 folder
 <details><summary>q2ps2 "Warehouse"</summary>
 <p>
   
-![Screenshot 2](https://github.com/Lahrenheit/Q2XP-PSX-DM-Maps/blob/main/levelshots/q2ps2.jpg
+![Screenshot 2](https://github.com/Lahrenheit/Q2XP-PSX-DM-Maps/blob/main/levelshots/q2ps2.jpg)
 </p>
 </details>
 
