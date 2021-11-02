@@ -1,6 +1,8 @@
 # Q2XP PSX DM MAPS - W.I.P
 Created by EmeraldProductions
+
 Relight (.xplm .xplit) and levelshots made by Lahrenheit
+
 All PSX DM Maps (no Badlands yet)
 
 Discord: Lahrenheit#8564
