@@ -1,9 +1,9 @@
-# Q2XP PSX DM MAPS - W.I.P
-Created by EmeraldProductions (.bsp files)
+# Q2XP PSX & N64 DM MAPS - W.I.P
+Created by EmeraldProductions (PSX .bsp) and peewee_RotA (N64 .bsp)
 
 Relight (.xplm .xplit) and levelshots made by Lahrenheit
 
-All PSX DM Maps (no Badlands yet)
+All PSX & N64 DM Maps (no Badlands and Overflow)
 
 Discord: Lahrenheit#8564
 
@@ -27,8 +27,16 @@ toxic "Toxic Vats HD"
 q2ps10 "The Forge"
 forge "The Forge HD"
 q2ps11 "Captivity"
+q264_1 "Agony"
+q264_2 "Corridors"
+q264_3 "War Room"
+q264_4 "Twists"
+q264_5 "Fortress"
+q264_6 "Cold Steel"
+q264_7 "Mad Dash"
+q264_8 "Empty Space"
+q264_9 "Dying Halls"
 ```
-
 
 ## Screenshots / Levelshots
 
@@ -122,3 +130,68 @@ q2ps11 "Captivity"
 ![Screenshot 13](https://github.com/Lahrenheit/Q2XP-PSX-DM-Maps/blob/main/levelshots/q2ps11.jpg)
 </p>
 </details>
+
+<details><summary>q264_1 "Agony"</summary>
+<p>
+  
+![Screenshot 13](https://github.com/Lahrenheit/Q2XP-PSX-DM-Maps/blob/main/levelshots/q264_1.jpg)
+</p>
+</details>
+
+<details><summary>q264_2 "Corridors"</summary>
+<p>
+  
+![Screenshot 13](https://github.com/Lahrenheit/Q2XP-PSX-DM-Maps/blob/main/levelshots/q264_2.jpg)
+</p>
+</details>
+
+<details><summary>q264_3 "War Room"</summary>
+<p>
+  
+![Screenshot 13](https://github.com/Lahrenheit/Q2XP-PSX-DM-Maps/blob/main/levelshots/q264_3.jpg)
+</p>
+</details>
+
+<details><summary>q264_4 "Twists"</summary>
+<p>
+  
+![Screenshot 13](https://github.com/Lahrenheit/Q2XP-PSX-DM-Maps/blob/main/levelshots/q264_4.jpg)
+</p>
+</details>
+
+<details><summary>q264_5 "Fortress"</summary>
+<p>
+  
+![Screenshot 13](https://github.com/Lahrenheit/Q2XP-PSX-DM-Maps/blob/main/levelshots/q264_5.jpg)
+</p>
+</details>
+
+<details><summary>q264_6 "Cold Steel"</summary>
+<p>
+  
+![Screenshot 13](https://github.com/Lahrenheit/Q2XP-PSX-DM-Maps/blob/main/levelshots/q264_6.jpg)
+</p>
+</details>
+
+<details><summary>q264_7 "Mad Dash"</summary>
+<p>
+  
+![Screenshot 13](https://github.com/Lahrenheit/Q2XP-PSX-DM-Maps/blob/main/levelshots/q264_7.jpg)
+</p>
+</details>
+
+<details><summary>q264_8 "Empty Space"</summary>
+<p>
+  
+![Screenshot 13](https://github.com/Lahrenheit/Q2XP-PSX-DM-Maps/blob/main/levelshots/q264_8.jpg)
+</p>
+</details>
+
+<details><summary>q264_9 "Dying Halls"</summary>
+<p>
+  
+![Screenshot 13](https://github.com/Lahrenheit/Q2XP-PSX-DM-Maps/blob/main/levelshots/q264_9.jpg)
+</p>
+</details>
+
+
