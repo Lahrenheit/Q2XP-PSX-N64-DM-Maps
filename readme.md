@@ -1,4 +1,6 @@
 # Q2XP PSX & N64 DM MAPS - W.I.P
+[url=https://github.com/Lahrenheit/Q2XP-PSX-N64-DM-Maps] Github [/url]
+
 Maps created by EmeraldProductions (PSX .bsp) and peewee_RotA (N64 .bsp)
 
 All credits for made these awesome maps!
