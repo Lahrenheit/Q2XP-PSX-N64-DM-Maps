@@ -8,7 +8,6 @@ Relight (.xplm .xplit) and levelshots made by Lahrenheit
 
 All PSX & N64 DM Maps (no Badlands and Overflow)
 
-Discord: Lahrenheit#8564
 
 
 ## Setup
