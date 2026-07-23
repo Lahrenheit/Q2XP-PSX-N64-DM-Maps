@@ -1,4 +1,4 @@
-# [Q2XP PSX & N64 DM MAPS - W.I.P](https://github.com/Lahrenheit/Q2XP-PSX-N64-DM-Maps) [![Donate](https://tinyurl.com/2fjj49ru)](http://tinyurl.com/lahrenheit)
+# Q2XP PSX & N64 DM MAPS - W.I.P [![Donate](https://tinyurl.com/2fjj49ru)](http://tinyurl.com/lahrenheit)
 ![Stars](https://img.shields.io/github/stars/Lahrenheit/Q2XP-PSX-N64-DM-Maps?style=flat&label=Stars&color=ff69b4) ![Forks](https://img.shields.io/github/forks/Lahrenheit/Q2XP-PSX-N64-DM-Maps?style=flat&label=Forks&color=orange) ![Watchers](https://img.shields.io/github/watchers/Lahrenheit/Q2XP-PSX-N64-DM-Maps?style=flat&label=Watchers&color=blue)
 ![Tamaño del repo](https://img.shields.io/github/repo-size/Lahrenheit/Q2XP-PSX-N64-DM-Maps?style=flat) ![Última versión](https://img.shields.io/github/v/release/Lahrenheit/Q2XP-PSX-N64-DM-Maps?style=flat&color=success)
 ![Descargas totales](https://img.shields.io/github/downloads/Lahrenheit/Q2XP-PSX-N64-DM-Maps/total?style=flat&color=blue)
